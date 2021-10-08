@@ -33,6 +33,7 @@ The Poisson Reconstruction is a bit more mathematical as it involves computation
 # Final Stages - Export 
 Once our meshes are generated, there are a lot of open-source 3D modelling software such as Blender and Meshlab. Download them, or you can either view them directly in Windows ny using the defualt 3D Model Viewer. Since, we are exporting the meshes direclty in **.ply (Polygon File Format)** format, it will be easy for us to load them and play with them in Blender.
 
+### Check the Point Cloud.pptx file to know more about runnning the Notebook
 ## References
 >[What are Point Clouds](https://info.vercator.com/blog/what-are-point-clouds-5-easy-facts-that-explain-point-clouds)
 >[Transactions on Visualization and Computer Graphics, 1999 - The Ball-Pivoting Algorithm for Surface Reconstruction](https://vgc.poly.edu/~csilva/papers/tvcg99.pdf)
